@@ -52,7 +52,7 @@ Docker · Kubernetes · GitHub Actions · Serverless · VPS Deployment
 
 ## 📫 Contact
 
-- Portfolio: https://feedtheapp.com - https://carboncn.dev - https://aicoo.ai
+- Portfolio: https://feedtheapp.com · https://carboncn.dev · https://aicoo.ai
 - LinkedIn: https://linkedin.com/in/felixpahlke  
 - Email: **fe.pahlke@gmail.com**
 
